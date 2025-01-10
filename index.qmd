@@ -1,5 +1,5 @@
 ---
-title: "My E-Portfolio"
+title: "My E-Portfolio 2"
 image: images/MGEM_logo.png
 about:
   template: trestles
