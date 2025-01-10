@@ -21,6 +21,10 @@ about:
 
 Hey there people,
 
-This is your E-Portfolio landing page. Be sure to upload a professional headshot of yourself, and provide the appropriate links to your professional social media (linkedin, X/Twitter, etc). This is also a good place to provide a short summary of your education, career and interests. If you are associated with a lab or working with a research supervisor, it may be appropriate to provide some information on that here, along with links to relevant websites.
-
-Write something about myself, very exciting.
+Nan is a Forester in Training (FIT), who received systematic training in Forestry, Geomatics for Environmental
+Management both in Canada and China. Her diverse educational and professional experiences have equipped
+her with skills in GIS, Python, visual analysis, 3D modeling, remote sensing, data analysis, and forest resources
+management. Driven by a passion for problem-solving, Nan consistently demonstrates adaptability and a
+commitment to delivering professional, timely, and reliable GIS and visual products and services. Her broad skill
+set allows her to tackle complex challenges effectively and produce high-quality outcomes that meet the needs
+of various projects and clients.

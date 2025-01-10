@@ -2,9 +2,11 @@
 title: "Resume"
 ---
 
-# Education 2
+# Education
 
--   List your education here.
+2024 Master of Geomatics for Environmental Management, University of British Columbia, Vancouver BC
+2021 Bachelor of Science, Forest Resources Management, University of British Columbia, Vancouver BC
+Bachelor of Science, Forestry, Nanjing Forestry University, Nanjing CN
 
 # Publications
 
@@ -36,4 +38,14 @@ title: "Resume"
 
 # Institutional Service
 
--   Volunteering etc.
+Institute of Botany, Chinese Academy of Sciences Nanjing, China
+Laboratory Assistant 2018/06 – 2018/08
+• Involved in Lagerstroemia Varietal Tissue Culture project via contributing to laboratory setup, research paper
+consolidation, experiment equipment setup and other literature reviews translations and writeups. Read 10+ papers.
+• Familiarized with experimental procedures within a lab, utilized statistical tools such a Stata, Excel and other
+computational software to outline the experiment results under guidance. Delivered 5 visualization and analysis reports.
+Society of Civil Architecture, Jiangsu Province Nanjing, China
+Assistant 2017/07 – 2017/09
+• Contributed to preliminary data collection and consolidation assignments with respect to geographic data, urban and
+industrial distribution data. Blended sound geological knowledge with forestry background to outline the shape.
+• Utilized BIM-GIS to facilitate the modelling assignment, grasped preliminary exposure in geology information system.
